@@ -25,3 +25,12 @@ The Genetic and Evolutionary Computation Conference GECCO
 
 EvoStar Bio‑Inspired Computation
 - [2021](http://www.evostar.org/2021/)
+
+IEEE Symposium Series on Computational Intelligence (IEEE SSCI)
+- [2021](https://attend.ieee.org/ssci-2021/)
+
+IEEE Congress on Evolutionary Computation (IEEE CEC)
+-[2021](https://cec2021.mini.pw.edu.pl/en)
+
+Mexican International Conference on Artificial Intelligence (MICAI)
+- [2020](http://www.micai.org/2020/)
