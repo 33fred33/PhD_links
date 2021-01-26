@@ -9,7 +9,6 @@ I got inspired from [My colleague's similar repo](https://github.com/brunaw/phd_
 ## Learning
 - [Best youtube tutorials (Machine Learning)](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
 Free, multiple topics, basic, intuitive
-
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
 
 
@@ -18,3 +17,11 @@ Free, multiple topics, basic, intuitive
 A free diagram generator with a large gallery of biology-related icons.
 - [Goodnotes](https://www.goodnotes.com/)
 The best ipad app for taking notes. You can download papers, mark them and back them up. Digital signing documents.
+
+## Conferences
+
+The Genetic and Evolutionary Computation Conference GECCO
+- [2021](https://gecco-2021.sigevo.org/HomePage)
+
+EvoStar Bio‑Inspired Computation
+- [2021](http://www.evostar.org/2021/)
