@@ -8,6 +8,10 @@ I got inspired from [My colleague's similar repo](https://github.com/brunaw/phd_
 
 ## Learning
 - [Best youtube tutorials (Machine Learning)](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+Free, multiple topics, basic, intuitive
+
+- [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
+
 
 ## Tools
 - [Biorender](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
