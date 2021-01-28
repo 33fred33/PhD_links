@@ -17,6 +17,8 @@ Free, multiple topics, basic, intuitive
 A free diagram generator with a large gallery of biology-related icons.
 - [Goodnotes](https://www.goodnotes.com/)
 The best ipad app for taking notes. You can download papers, mark them and back them up. Digital signing documents.
+-[Dark reader](https://darkreader.org/)
+Browser extension to see every page with a dark theme
 
 ## Conferences
 
