@@ -21,6 +21,7 @@ The best ipad app for taking notes. You can download papers, mark them and back 
 ## Conferences
 
 - [Conference searcher](https://www.guide2research.com/)
+- [Free access to publications](https://sci-hub.scihubtw.tw/)
 - The Genetic and Evolutionary Computation Conference (GECCO) [2021](https://gecco-2021.sigevo.org/HomePage)
 - EvoStar Bio‑Inspired Computation [2021](http://www.evostar.org/2021/)
 - IEEE Symposium Series on Computational Intelligence (IEEE SSCI) [2021](https://attend.ieee.org/ssci-2021/)
