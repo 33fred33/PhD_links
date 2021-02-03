@@ -7,8 +7,19 @@ I got inspired from [My colleague's similar repo](https://github.com/brunaw/phd_
 - [Latex thesis template](https://www.latextemplates.com/template/masters-doctoral-thesis)
 
 ## Learning
-- [Best youtube tutorials (Machine Learning)](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
-Free, multiple topics, basic, intuitive
+### Youtube channels
+- [3Blue1Brown](https://www.youtube.com/3blue1brown)
+Mathematics and machine learning
+- [Reducible](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
+Mathematics and computer science
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
+Science
+- [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+Machine learning and mathematics
+- [Stat Quest!](https://www.youtube.com/user/joshstarmer)
+Statistics, machine learning and data science (basic)
+
+### Courses
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
 
 
@@ -19,9 +30,10 @@ A free diagram generator with a large gallery of biology-related icons.
 The best ipad app for taking notes. You can download papers, mark them and back them up. Digital signing documents.
 -[Dark reader](https://darkreader.org/)
 Browser extension to see every page with a dark theme
+-[Manim](https://github.com/malhotra5/Manim-Tutorial)
+Mathematical animation engine for python
 
 ## Conferences
-
 - [Conference searcher](https://www.guide2research.com/)
 - [Free access to publications](https://sci-hub.scihubtw.tw/)
 - The Genetic and Evolutionary Computation Conference (GECCO) [2021](https://gecco-2021.sigevo.org/HomePage)
