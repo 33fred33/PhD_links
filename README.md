@@ -19,8 +19,12 @@ Machine learning and mathematics
 - [Stat Quest!](https://www.youtube.com/user/joshstarmer)
 Statistics, machine learning and data science (basic)
 
+### Free online tutorials
+- [Bash scripting](https://github.com/dairer/how-to-bash#function-arguments)
+
 ### Courses
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
+
 
 
 ## Tools
