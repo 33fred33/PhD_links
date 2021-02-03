@@ -42,3 +42,6 @@ Mathematical animation engine for python
 - IEEE Congress on Evolutionary Computation (IEEE CEC) [2021](https://cec2021.mini.pw.edu.pl/en)
 - Parallel Problem Solving from Nature (PPSN) [2020](https://ppsn2020.liacs.leidenuniv.nl/)
 - Mexican International Conference on Artificial Intelligence (MICAI) [2020](http://www.micai.org/2020/)
+
+## Competitions
+- [The General Video Game AI Competition](http://www.gvgai.net/)
