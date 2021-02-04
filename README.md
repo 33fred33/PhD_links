@@ -36,6 +36,8 @@ Browser extension to see every page with a dark theme
 Mathematical animation engine for python
 - [The irace Package: Iterated Race for Automatic Algorithm Configuration](https://iridia.ulb.ac.be/irace/)
 R library with an algorithm meant to automatically find the best hyper-parameters
+- [ECJ](https://cs.gmu.edu/~eclab/projects/ecj/)
+A Java-based Evolutionary Computation Research System
 
 ## Conferences
 - [Conference searcher](https://www.guide2research.com/)
