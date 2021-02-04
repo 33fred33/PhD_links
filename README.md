@@ -34,6 +34,8 @@ The best ipad app for taking notes. You can download papers, mark them and back 
 Browser extension to see every page with a dark theme
 - [Manim](https://github.com/malhotra5/Manim-Tutorial)
 Mathematical animation engine for python
+- [The irace Package: Iterated Race for Automatic Algorithm Configuration](https://iridia.ulb.ac.be/irace/)
+R library with an algorithm meant to automatically find the best hyper-parameters
 
 ## Conferences
 - [Conference searcher](https://www.guide2research.com/)
