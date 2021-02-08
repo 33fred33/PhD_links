@@ -26,18 +26,26 @@ Statistics, machine learning and data science (basic)
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
 
 ## Tools
+
+### Material generation
 - [Biorender](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
 A free diagram generator with a large gallery of biology-related icons.
 - [Goodnotes](https://www.goodnotes.com/)
 The best ipad app for taking notes. You can download papers, mark them and back them up. Digital signing documents.
-- [Dark reader](https://darkreader.org/)
-Browser extension to see every page with a dark theme
 - [Manim](https://github.com/malhotra5/Manim-Tutorial)
 Mathematical animation engine for python
+
+### Extensions
+- [Dark reader](https://darkreader.org/)
+Browser extension to see every page with a dark theme
+
+### Libraries and packages
 - [The irace Package: Iterated Race for Automatic Algorithm Configuration](https://iridia.ulb.ac.be/irace/)
 R library with an algorithm meant to automatically find the best hyper-parameters
 - [ECJ](https://cs.gmu.edu/~eclab/projects/ecj/)
 A Java-based Evolutionary Computation Research System
+- [Pyribs](https://docs.pyribs.org/en/latest/)
+A bare-bones quality diversity optimization library. pyribs is the official implementation of the Covariance Matrix Adaptation MAP-Elites (CMA-ME) algorithm and implements the Rapid Illumination of Behavior Space (RIBS) redesign of MAP-Elites detailed in the paper Covariance Matrix Adapation for the Rapid Illumination of Behavior Space.
 
 ## Conferences
 - [Conference searcher](https://www.guide2research.com/)
