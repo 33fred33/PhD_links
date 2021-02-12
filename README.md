@@ -39,6 +39,10 @@ Mathematical animation engine for python
 - [Dark reader](https://darkreader.org/)
 Browser extension to see every page with a dark theme
 
+### Useful pages
+-[Writers diet](https://writersdiet.com/test/)
+
+
 ### Libraries and packages
 - [The irace Package: Iterated Race for Automatic Algorithm Configuration](https://iridia.ulb.ac.be/irace/)
 R library with an algorithm meant to automatically find the best hyper-parameters
