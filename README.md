@@ -64,5 +64,10 @@ A bare-bones quality diversity optimization library. pyribs is the official impl
 ## Competitions
 - [The General Video Game AI Competition](http://www.gvgai.net/)
 
-## Very specific Evolutionary Algorithms stuff
+## Very specific stuff
 - [Cartessian Genetic Programming](https://www.cartesiangp.com/)
+
+### Cython
+- [Cython folder and package structure example](https://github.com/FedericoStra/cython-package-example)
+- [Tutorial](http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html)
+- [Installation guide and tutorial](https://www.youtube.com/watch?v=-nXrJmI5JjU&list=PLMOobVGrchXNbTrmUb8_3yZNscK3rle3B)
