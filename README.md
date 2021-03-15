@@ -40,7 +40,7 @@ Mathematical animation engine for python
 Browser extension to see every page with a dark theme
 
 ### Useful pages
--[Writers diet](https://writersdiet.com/test/)
+- [Writers diet](https://writersdiet.com/test/)
 
 
 ### Libraries and packages
@@ -51,7 +51,18 @@ A Java-based Evolutionary Computation Research System
 - [Pyribs](https://docs.pyribs.org/en/latest/)
 A bare-bones quality diversity optimization library. pyribs is the official implementation of the Covariance Matrix Adaptation MAP-Elites (CMA-ME) algorithm and implements the Rapid Illumination of Behavior Space (RIBS) redesign of MAP-Elites detailed in the paper Covariance Matrix Adapation for the Rapid Illumination of Behavior Space.
 
-## Conferences
+## Very specific stuff
+- [Cartessian Genetic Programming](https://www.cartesiangp.com/)
+
+### Cython
+- [Cython folder and package structure example](https://github.com/FedericoStra/cython-package-example)
+- [Tutorial](http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html)
+- [Installation guide and tutorial](https://www.youtube.com/watch?v=-nXrJmI5JjU&list=PLMOobVGrchXNbTrmUb8_3yZNscK3rle3B)
+
+
+## Community
+
+### Conferences
 - [Conference searcher](https://www.guide2research.com/)
 - [Free access to publications](https://sci-hub.scihubtw.tw/)
 - The Genetic and Evolutionary Computation Conference (GECCO) [2021](https://gecco-2021.sigevo.org/HomePage)
@@ -61,13 +72,9 @@ A bare-bones quality diversity optimization library. pyribs is the official impl
 - Parallel Problem Solving from Nature (PPSN) [2020](https://ppsn2020.liacs.leidenuniv.nl/)
 - Mexican International Conference on Artificial Intelligence (MICAI) [2020](http://www.micai.org/2020/)
 
-## Competitions
+### Competitions
 - [The General Video Game AI Competition](http://www.gvgai.net/)
 
-## Very specific stuff
-- [Cartessian Genetic Programming](https://www.cartesiangp.com/)
-
-### Cython
-- [Cython folder and package structure example](https://github.com/FedericoStra/cython-package-example)
-- [Tutorial](http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html)
-- [Installation guide and tutorial](https://www.youtube.com/watch?v=-nXrJmI5JjU&list=PLMOobVGrchXNbTrmUb8_3yZNscK3rle3B)
+### Opportunities
+- [Facebook research](https://research.fb.com/)
+- [Google research](https://research.google/)
