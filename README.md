@@ -50,6 +50,8 @@ R library with an algorithm meant to automatically find the best hyper-parameter
 A Java-based Evolutionary Computation Research System
 - [Pyribs](https://docs.pyribs.org/en/latest/)
 A bare-bones quality diversity optimization library. pyribs is the official implementation of the Covariance Matrix Adaptation MAP-Elites (CMA-ME) algorithm and implements the Rapid Illumination of Behavior Space (RIBS) redesign of MAP-Elites detailed in the paper Covariance Matrix Adapation for the Rapid Illumination of Behavior Space.
+- [Loon](https://great-northern-diver.github.io/loon/)
+Interactive data visualization with R
 
 ## Very specific stuff
 - [Cartessian Genetic Programming](https://www.cartesiangp.com/)
