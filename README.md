@@ -34,6 +34,8 @@ A free diagram generator with a large gallery of biology-related icons.
 The best ipad app for taking notes. You can download papers, mark them and back them up. Digital signing documents.
 - [Manim](https://github.com/malhotra5/Manim-Tutorial)
 Mathematical animation engine for python
+- [Monstermash](monstermash.zone)
+Quick and simple 3d objects
 
 ### Extensions
 - [Dark reader](https://darkreader.org/)
