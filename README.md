@@ -56,7 +56,7 @@ A bare-bones quality diversity optimization library. pyribs is the official impl
 Interactive data visualization with R
 
 ## Very specific stuff
-- [Cartessian Genetic Programming](https://www.cartesiangp.com/)
+- [Cartesian Genetic Programming](https://www.cartesiangp.com/)
 
 ### Cython
 - [Cython folder and package structure example](https://github.com/FedericoStra/cython-package-example)
