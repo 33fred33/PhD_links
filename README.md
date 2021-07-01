@@ -54,6 +54,8 @@ A Java-based Evolutionary Computation Research System
 A bare-bones quality diversity optimization library. pyribs is the official implementation of the Covariance Matrix Adaptation MAP-Elites (CMA-ME) algorithm and implements the Rapid Illumination of Behavior Space (RIBS) redesign of MAP-Elites detailed in the paper Covariance Matrix Adapation for the Rapid Illumination of Behavior Space.
 - [Loon](https://great-northern-diver.github.io/loon/)
 Interactive data visualization with R
+- [Gplearn](https://gplearn.readthedocs.io/en/stable/)
+Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
 
 ## Very specific stuff
 - [Cartesian Genetic Programming](https://www.cartesiangp.com/)
