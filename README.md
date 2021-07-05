@@ -56,6 +56,9 @@ A bare-bones quality diversity optimization library. pyribs is the official impl
 Interactive data visualization with R
 - [Gplearn](https://gplearn.readthedocs.io/en/stable/)
 Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
+- [DEAP](https://deap.readthedocs.io/en/master/index.html)
+Distributed Evolutionary Algorithms in Python
+
 
 ## Very specific stuff
 - [Cartesian Genetic Programming](https://www.cartesiangp.com/)
