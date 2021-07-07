@@ -25,6 +25,13 @@ Statistics, machine learning and data science (basic)
 ### Courses
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
 
+### Particulars
+- [Cython: folder and package structure example](https://github.com/FedericoStra/cython-package-example)
+- [Cython: Tutorial](http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html)
+- [Cython: Installation guide and tutorial](https://www.youtube.com/watch?v=-nXrJmI5JjU&list=PLMOobVGrchXNbTrmUb8_3yZNscK3rle3B)
+- [Cartesian Genetic Programming](https://www.cartesiangp.com/)
+
+
 ## Tools
 
 ### Material generation
@@ -57,16 +64,11 @@ Interactive data visualization with R
 - [Gplearn](https://gplearn.readthedocs.io/en/stable/)
 Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
 - [DEAP](https://deap.readthedocs.io/en/master/index.html)
-Distributed Evolutionary Algorithms in Python
-
-
-## Very specific stuff
-- [Cartesian Genetic Programming](https://www.cartesiangp.com/)
-
-### Cython
-- [Cython folder and package structure example](https://github.com/FedericoStra/cython-package-example)
-- [Tutorial](http://docs.cython.org/en/latest/src/tutorial/cython_tutorial.html)
-- [Installation guide and tutorial](https://www.youtube.com/watch?v=-nXrJmI5JjU&list=PLMOobVGrchXNbTrmUb8_3yZNscK3rle3B)
+Distributed Evolutionary Algorithms in Python. [cartesian](https://pypi.org/project/cartesian/) is a CGP extension for it.
+- [TAG](https://github.com/GAIGResearch/TabletopGames)
+Tabletop Research Framework
+- [Griddly](https://github.com/Bam4d/Griddly)
+A cross platform grid-based research environment that is designed to be able to reproduce grid-world style games.
 
 
 ## Community
@@ -80,6 +82,7 @@ Distributed Evolutionary Algorithms in Python
 - IEEE Congress on Evolutionary Computation (IEEE CEC) [2021](https://cec2021.mini.pw.edu.pl/en)
 - Parallel Problem Solving from Nature (PPSN) [2020](https://ppsn2020.liacs.leidenuniv.nl/)
 - Mexican International Conference on Artificial Intelligence (MICAI) [2020](http://www.micai.org/2020/)
+- IEEE Conference of Games (CoG) (formerly Computational Intelligence and Games (CIG)) [2021](https://ieee-cog.org/2021/)
 
 ### Competitions
 - [The General Video Game AI Competition](http://www.gvgai.net/)
