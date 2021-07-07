@@ -21,6 +21,7 @@ Statistics, machine learning and data science (basic)
 
 ### Free online tutorials
 - [Bash scripting](https://github.com/dairer/how-to-bash#function-arguments)
+- [Git game tutorial](https://learngitbranching.js.org/?locale=es_ES)
 
 ### Courses
 - [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts)
