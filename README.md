@@ -68,6 +68,8 @@ Implements Genetic Programming in Python, with a scikit-learn inspired and compa
 Distributed Evolutionary Algorithms in Python. [cartesian](https://pypi.org/project/cartesian/) is a CGP extension for it.
 - [TAG](https://github.com/GAIGResearch/TabletopGames)
 Tabletop Research Framework
+- [GGP](http://games.ggp.org/)
+Games-base repository for general game playing
 - [Griddly](https://github.com/Bam4d/Griddly)
 A cross platform grid-based research environment that is designed to be able to reproduce grid-world style games.
 
