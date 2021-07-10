@@ -86,7 +86,7 @@ A cross platform grid-based research environment that is designed to be able to 
 |            The Genetic and Evolutionary Computation Conference           	|   GECCO   	|                                                  	|                                         	|                	|
 |                     EvoStar Bio‑Inspired Computation                     	|  EvoStar  	|       [2022](http://www.evostar.org/2022/)       	|                1 NOV 2021               	| 20-22 APR 2022 	|
 |            IEEE Symposium Series on Computational Intelligence           	| IEEE SSCI 	|      [2021](https://attend.ieee.org/ssci-2021/)    	|  6 AUG 2021 	|  5-8 DEC 2021  	|
-|                 IEEE Congress on Evolutionary Computation                	|  IEEE CEG 	|                                                  	|                                         	|                	|
+|                 IEEE Congress on Evolutionary Computation                	|  IEEE CEC 	|                                                  	|                                         	|                	|
 | IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/)        	|                   Due                   	| 17–20 AUG 2021 	|
 |        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|                                                  	|                                         	|                	|
 |                   Parallel Problem Solving from Nature                   	|    PPSN   	| 	|  | | 
