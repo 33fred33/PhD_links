@@ -75,15 +75,29 @@ A cross platform grid-based research environment that is designed to be able to 
 ## Community
 
 ### Conferences
-- [Conference searcher](https://www.guide2research.com/)
+- [Conference searchers](https://www.guide2research.com/)
+- [Calls for papers](http://www.wikicfp.com/cfp/allcfp)
 - [Free access to publications](https://sci-hub.scihubtw.tw/)
 - The Genetic and Evolutionary Computation Conference (GECCO) [2021](https://gecco-2021.sigevo.org/HomePage)
-- EvoStar Bio‑Inspired Computation [2021](http://www.evostar.org/2021/)
+- EvoStar Bio‑Inspired Computation [2021](http://www.evostar.org/2021/) [2022](http://www.evostar.org/2022/)
 - IEEE Symposium Series on Computational Intelligence (IEEE SSCI) [2021](https://attend.ieee.org/ssci-2021/)
 - IEEE Congress on Evolutionary Computation (IEEE CEC) [2021](https://cec2021.mini.pw.edu.pl/en)
 - Parallel Problem Solving from Nature (PPSN) [2020](https://ppsn2020.liacs.leidenuniv.nl/)
 - Mexican International Conference on Artificial Intelligence (MICAI) [2020](http://www.micai.org/2020/)
 - IEEE Conference of Games (CoG) (formerly Computational Intelligence and Games (CIG)) [2021](https://ieee-cog.org/2021/)
+
+
+|                                   Name                                   	|  Acronym  	|                       Page                       	|                 Deadline                	|      Date      	|
+|:------------------------------------------------------------------------:	|:---------:	|:------------------------------------------------:	|:---------------------------------------:	|:--------------:	|
+|            The Genetic and Evolutionary Computation Conference           	|   GECCO   	|                                                  	|                                         	|                	|
+|                     EvoStar Bio‑Inspired Computation                     	|  EvoStar  	|       [2022](http://www.evostar.org/2022/)       	|                1 NOV 2021               	| 20-22 APR 2022 	|
+|            IEEE Symposium Series on Computational Intelligence           	| IEEE SSCI 	|                                                  	|                                         	|                	|
+|                 IEEE Congress on Evolutionary Computation                	|  IEEE CEG 	|                                                  	|                                         	|                	|
+| IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/)        	|                   Due                   	| 17–20 AUG 2021 	|
+|        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|                                                  	|                                         	|                	|
+|                   Parallel Problem Solving from Nature                   	|    PPSN   	|                                                  	|                                         	|                	|
+|                  Artificial Intelligence and Statistics                  	|  AISTATS  	| [2022](https://aistats.org/aistats2022/cfp.html) 	| Abstract: 8 OCT 2021 Paper: 15 OCT 2021 	|                	|
+
 
 ### Competitions
 - [The General Video Game AI Competition](http://www.gvgai.net/)
