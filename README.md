@@ -72,6 +72,8 @@ Tabletop Research Framework
 Games-base repository for general game playing
 - [Griddly](https://github.com/Bam4d/Griddly)
 A cross platform grid-based research environment that is designed to be able to reproduce grid-world style games.
+- [Ludii](https://github.com/Ludeme/Ludii)
+General game system
 
 
 ## Community
