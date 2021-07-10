@@ -91,6 +91,7 @@ A cross platform grid-based research environment that is designed to be able to 
 |        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|                                                  	|                                         	|                	|
 |                   Parallel Problem Solving from Nature                   	|    PPSN   	| 	|  | | 
 |                  Artificial Intelligence and Statistics                  	|  AISTATS  	| [2022](https://aistats.org/aistats2022/cfp.html) 	| Abstract: 8 OCT 2021 Paper: 15 OCT 2021 	| 30 MAR-1 APR 2022|
+|    IEEE World Congress on Computational Intelligence 	|  IEEE WCCI	| [2022](https://wcci2022.org/)	| 31 JAN 2022 | 18-23 JUL 2022 | 
 
 
 ### Competitions
