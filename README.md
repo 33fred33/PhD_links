@@ -89,12 +89,14 @@ General game system
 |                     EvoStar Bio‑Inspired Computation                     	|  EvoStar  	|       [2022](http://www.evostar.org/2022/)       	|                1 NOV 2021               	| 20-22 APR 2022 	|
 |            IEEE Symposium Series on Computational Intelligence           	| IEEE SSCI 	|      [2021](https://attend.ieee.org/ssci-2021/)    	|  6 AUG 2021 	|  5-8 DEC 2021  	|
 |                 IEEE Congress on Evolutionary Computation                	|  IEEE CEC 	|                                                  	|                                         	|                	|
-| IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/)        	|                   Due                   	| 17–20 AUG 2021 	|
+| IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/)        	|                                     	| 17–20 AUG 2021 	|
 |        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|                                                  	|                                         	|                	|
 |                   Parallel Problem Solving from Nature                   	|    PPSN   	| 	|  | | 
 |                  Artificial Intelligence and Statistics                  	|  AISTATS  	| [2022](https://aistats.org/aistats2022/cfp.html) 	| Abstract: 8 OCT 2021 Paper: 15 OCT 2021 	| 30 MAR-1 APR 2022|
 |    IEEE World Congress on Computational Intelligence 	|  IEEE WCCI	| [2022](https://wcci2022.org/)	| 31 JAN 2022 | 18-23 JUL 2022 | 
 | International Conference on Metaheuristics and Nature Inspired Computing	|    META   	| 	|  | | 
+| Conference on Artificial Intelligence and Interactive Digital Entertainment	|    AIIDE   	| [2021](https://sites.google.com/view/aiide2021/home)	| 7 JUN 2021 | 13-15 OCT 2021 | 
+| International Conference on the Foundations of Digital Games	|    FDG   	| [2021](http://www.fdg2021.org/)	| 1 FEB 2021 | 2-6 AGO 2021 | 
 
 Last updated: 12 JUL 2021
 
