@@ -97,6 +97,8 @@ General game system
 | International Conference on Metaheuristics and Nature Inspired Computing	|    META   	| 	|  | | 
 | Conference on Artificial Intelligence and Interactive Digital Entertainment	|    AIIDE   	| [2021](https://sites.google.com/view/aiide2021/home)	| 7 JUN 2021 | 13-15 OCT 2021 | 
 | International Conference on the Foundations of Digital Games	|    FDG   	| [2021](http://www.fdg2021.org/)	| 1 FEB 2021 | 2-6 AGO 2021 | 
+| Foundations of Genetic Algorithms	|    FOGA  | [2021](https://www.fhv.at/foga2021/) | 7 MAY 2021 | 6-8 SEP 2021 | 
+
 
 Last updated: 12 JUL 2021
 
