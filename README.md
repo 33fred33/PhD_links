@@ -75,6 +75,15 @@ A cross platform grid-based research environment that is designed to be able to 
 - [Ludii](https://github.com/Ludeme/Ludii)
 General game system
 
+### simulation frameworks
+- [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
+Object-oriented framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games
+- [MuJuCo](http://mujoco.org/)
+Multi-Joint dynamics with Contact. MuJoCo is a physics engine aiming to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.
+- [VizDoom](http://vizdoom.cs.put.edu.pl/)
+Vizdoom allows developing AI bots that play doom using the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particul
+- [Unity's ML-Agents Toolkit](https://unity.com/products/machine-learning-agents)
+Train and embed intelligent agents by leveraging state-of-the-art deep learning technology.
 
 ## Community
 
