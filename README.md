@@ -84,6 +84,8 @@ Multi-Joint dynamics with Contact. MuJoCo is a physics engine aiming to facilita
 Vizdoom allows developing AI bots that play doom using the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particul
 - [Unity's ML-Agents Toolkit](https://unity.com/products/machine-learning-agents)
 Train and embed intelligent agents by leveraging state-of-the-art deep learning technology.
+- [microRTS](https://github.com/santiontanon/microrts)
+microRTS is a small implementation of an RTS game, designed to perform AI research
 
 ## Community
 
