@@ -86,6 +86,8 @@ Vizdoom allows developing AI bots that play doom using the visual information (t
 Train and embed intelligent agents by leveraging state-of-the-art deep learning technology.
 - [microRTS](https://github.com/santiontanon/microrts)
 microRTS is a small implementation of an RTS game, designed to perform AI research
+-[Open AI Gym](https://gym.openai.com/)
+Toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
 
 ## Community
 
