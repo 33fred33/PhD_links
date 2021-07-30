@@ -10,6 +10,8 @@ I got inspired from [My colleague's similar repo](https://github.com/brunaw/phd_
 ### Youtube channels
 - [3Blue1Brown](https://www.youtube.com/3blue1brown)
 Mathematics and machine learning
+- [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+The name says it all. In depth numerical analysis of interesting topics, including games.
 - [Reducible](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
 Mathematics and computer science
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
