@@ -75,7 +75,8 @@ Games-base repository for general game playing
 - [Griddly](https://github.com/Bam4d/Griddly)
 A cross platform grid-based research environment that is designed to be able to reproduce grid-world style games.
 - [Ludii](https://github.com/Ludeme/Ludii)
-General game system
+General game system, standardized ludemes (concepts) for general game playing
+- [OpenNN](https://www.opennn.net/)
 
 ### simulation frameworks
 - [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
