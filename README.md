@@ -47,6 +47,8 @@ The best ipad app for taking notes. You can download papers, mark them and back 
 Mathematical animation engine for python
 - [Monstermash](monstermash.zone)
 Quick and simple 3d objects
+- [Flaticon](https://www.flaticon.com/)
+Free image and icons. Properties can be specified before the download
 
 ### Extensions
 - [Dark reader](https://darkreader.org/)
