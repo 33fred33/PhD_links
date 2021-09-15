@@ -119,6 +119,7 @@ Toolkit for developing and comparing reinforcement learning algorithms. It suppo
 | Foundations of Genetic Algorithms	|    FOGA  | [2021](https://www.fhv.at/foga2021/) | 7 MAY 2021 | 6-8 SEP 2021 | 
 |                   Association for the Advancement of Artificial Intelligence                  	|    AAAI   	| [2022](https://aaai.org/Conferences/AAAI-22/)	| 30 AUG 2021 | 22 FEB-1 MAR 2022 | 
 | International Joint Conference on Artificial Intelligence	|    IJCAI   	| [2022](https://ijcai-22.org/)	|  | 22-23 JUL 2022 | 
+| The 37th ACM/SIGAPP Symposium On Applied Computing	|    ACM/SIGAPP   	| [2022](https://www.sigapp.org/sac/sac2022/index.html)	|  | 25-29 APR 2022 | 
 
 Last updated: 20 JUL 2021
 
