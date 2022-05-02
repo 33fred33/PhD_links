@@ -104,24 +104,24 @@ Toolkit for developing and comparing reinforcement learning algorithms. It suppo
 
 |                                   Name                                   	|  Acronym  	|                       Page                       	|                 Deadline                	|      Date      	|
 |:------------------------------------------------------------------------:	|:---------:	|:------------------------------------------------:	|:---------------------------------------:	|:--------------:	|
-|            The Genetic and Evolutionary Computation Conference           	|   GECCO   	|                                                  	|                                         	|                	|
-|                     EvoStar Bio‑Inspired Computation                     	|  EvoStar  	|       [2022](http://www.evostar.org/2022/)       	|                1 NOV 2021               	| 20-22 APR 2022 	|
-|            IEEE Symposium Series on Computational Intelligence           	| IEEE SSCI 	|      [2021](https://attend.ieee.org/ssci-2021/)    	|  6 AUG 2021 	|  5-8 DEC 2021  	|
-|                 IEEE Congress on Evolutionary Computation                	|  IEEE CEC 	|                                                  	|                                         	|                	|
-| IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/)        	|                                     	| 17–20 AUG 2021 	|
-|        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|                                                  	|                                         	|                	|
-|                   Parallel Problem Solving from Nature                   	|    PPSN   	| 	|  | | 
-|                  Artificial Intelligence and Statistics                  	|  AISTATS  	| [2022](https://aistats.org/aistats2022/cfp.html) 	| Abstract: 8 OCT 2021 Paper: 15 OCT 2021 	| 30 MAR-1 APR 2022|
-|    IEEE World Congress on Computational Intelligence 	|  IEEE WCCI	| [2022](https://wcci2022.org/)	| 31 JAN 2022 | 18-23 JUL 2022 | 
+|            The Genetic and Evolutionary Computation Conference           	|   GECCO   	|                                                  	|                                       DUE  	| 9-13 JUL 2022	|
+|                     EvoStar Bio‑Inspired Computation                     	|  EvoStar  	|       [2022](http://www.evostar.org/2022/)       	|               DUE               	| 20-22 APR 2022 	|
+|            IEEE Symposium Series on Computational Intelligence           	| IEEE SSCI 	|      [2021](https://attend.ieee.org/ssci-2021/) [2022](https://ieeessci2022.org/index.html)   	|  1 JUL 2022 	|  4-7 DEC 2022  	|
+|                 IEEE Congress on Evolutionary Computation                	|  IEEE CEC 	|                                                  	|                                         	|      TBD          	|
+| IEEE Conference of Games (formerly Computational Intelligence and Games) 	|  IEEE CoG 	|        [2021](https://ieee-cog.org/2021/) [2022](https://ieee-cog.org/2022/#Introduction)        	|                                     	| 21–24 AUG 2022 	|
+|        Mexican International Conference on Artificial Intelligence       	|   MICAI   	|   [2022](http://www.micai.org/2022/)                                               	|     20 JUN 2022         	|      24-29 OCT 2022    	|
+|                   Parallel Problem Solving from Nature                   	|    PPSN   	| [2022](https://ppsn2022.cs.tu-dortmund.de/)	| DUE | 12-14 SEP 2022 | 
+|                  Artificial Intelligence and Statistics                  	|  AISTATS  	| [2022](https://aistats.org/aistats2022/cfp.html) 	| DUE 	| 30 MAR-1 APR 2022|
+|    IEEE World Congress on Computational Intelligence 	|  IEEE WCCI	| [2022](https://wcci2022.org/) [2024](https://wcci2024.org/)	| TBD | 30 JUN - 5 JUL 2024 | 
 | International Conference on Metaheuristics and Nature Inspired Computing	|    META   	| 	|  | | 
-| Conference on Artificial Intelligence and Interactive Digital Entertainment	|    AIIDE   	| [2021](https://sites.google.com/view/aiide2021/home)	| 7 JUN 2021 | 13-15 OCT 2021 | 
+| Conference on Artificial Intelligence and Interactive Digital Entertainment	|    AIIDE   	| [2021](https://sites.google.com/view/aiide2021/home)	| TBD | TBD | 
 | International Conference on the Foundations of Digital Games	|    FDG   	| [2021](http://www.fdg2021.org/)	| 1 FEB 2021 | 2-6 AGO 2021 | 
-| Foundations of Genetic Algorithms	|    FOGA  | [2021](https://www.fhv.at/foga2021/) | 7 MAY 2021 | 6-8 SEP 2021 | 
+| Foundations of Genetic Algorithms	|    FOGA  | [2021](https://www.fhv.at/foga2021/) | TBD | TBD | 
 |                   Association for the Advancement of Artificial Intelligence                  	|    AAAI   	| [2022](https://aaai.org/Conferences/AAAI-22/)	| 30 AUG 2021 | 22 FEB-1 MAR 2022 | 
 | International Joint Conference on Artificial Intelligence	|    IJCAI   	| [2022](https://ijcai-22.org/)	|  | 22-23 JUL 2022 | 
 | The 37th ACM/SIGAPP Symposium On Applied Computing	|    ACM/SIGAPP   	| [2022](https://www.sigapp.org/sac/sac2022/index.html)	| 15 OCT 2021 | 25-29 APR 2022 | 
 
-Last updated: 20 JUL 2021
+Last updated: 03 MAY 2022
 
 ### Competitions
 - [The General Video Game AI Competition](http://www.gvgai.net/)
