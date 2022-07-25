@@ -49,6 +49,8 @@ Mathematical animation engine for python
 Quick and simple 3d objects
 - [Flaticon](https://www.flaticon.com/)
 Free image and icons. Properties can be specified before the download
+- [000 Web Host](https://www.000webhost.com/)
+Free and simple web hosting
 
 ### Extensions
 - [Dark reader](https://darkreader.org/)
