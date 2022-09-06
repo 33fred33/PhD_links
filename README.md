@@ -122,6 +122,8 @@ Toolkit for developing and comparing reinforcement learning algorithms. It suppo
 |                   Association for the Advancement of Artificial Intelligence                  	|    AAAI   	| [2022](https://aaai.org/Conferences/AAAI-22/)	| 30 AUG 2021 | 22 FEB-1 MAR 2022 | 
 | International Joint Conference on Artificial Intelligence	|    IJCAI   	| [2022](https://ijcai-22.org/)	|  | 22-23 JUL 2022 | 
 | The 37th ACM/SIGAPP Symposium On Applied Computing	|    ACM/SIGAPP   	| [2022](https://www.sigapp.org/sac/sac2022/index.html)	| 15 OCT 2021 | 25-29 APR 2022 | 
+| ACM Transactions on Evolutionary Learning and Optimization	|    ACM   	| [2022](https://dl.acm.org/pb-assets/static_journal_pages/telo/pdf/TELO-SI-Explainable-AI.pdf)	| 15 OCT 2022 |  | 
+
 
 Last updated: 03 MAY 2022
 
