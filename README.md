@@ -58,6 +58,10 @@ Browser extension to see every page with a dark theme
 
 ### Useful pages
 - [Writers diet](https://writersdiet.com/test/)
+- [Litmaps](https://app.litmaps.com/) A tree/map that links research papers using their references
+- [Elicit](https://elicit.org/)Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows. Currently, the main workflow in Elicit is Literature Review. If you ask a question, Elicit will show relevant papers and summaries of key information about those papers in an easy-to-use table.
+- [Paper Digest] (https://www.paper-digest.com/) Summarizes academic articles. There are two options: .org and .com.
+
 
 
 ### Libraries and packages
@@ -83,7 +87,7 @@ A cross platform grid-based research environment that is designed to be able to 
 General game system, standardized ludemes (concepts) for general game playing
 - [OpenNN](https://www.opennn.net/)
 
-### simulation frameworks
+### Simulation frameworks
 - [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
 Object-oriented framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games
 - [MuJuCo](http://mujoco.org/)
